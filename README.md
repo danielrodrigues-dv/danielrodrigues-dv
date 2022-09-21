@@ -3,6 +3,15 @@
   <img src="https://github.com/danielrodrigues-dv/danielrodrigues-dv/blob/main/images/Banner.png" alt="Banner danielrodrigues-dv"/>
 </p>
 
+## Details
+- 🌍  I'm based in São Paulo - SP, Brazil
+- 🌱  My Higher Academic | Background in Systems Analysis and Development.
+- ✉️  You can contact me at [daniel.rodrigues.soarees@gmail.com](mailto:daniel.rodrigues.soarees@gmail.com)
+- 🚀  I'm currently working on [Caritas Campo Limpo](https://caritascl.org.br)
+- 🧠  I'm improving my habillities with AWS, JavaScript, Jest and Angular 14
+- 🤝  I like to experience new learnings and collaborate with knowledge sharing
+- ⚡  I love sports and my favorite is Mountain Bike.
+
 ## SKILLS | FRONT-END
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,15 +44,6 @@
 If you want to see all my skills 
 <a href="www.google.com.br">Portfolio</a>
 
-
-## Details
-- 🌍  I'm based in São Paulo - SP, Brazil
-- 🌱  My Higher Academic | Background in Systems Analysis and Development.
-- ✉️  You can contact me at [daniel.rodrigues.soarees@gmail.com](mailto:daniel.rodrigues.soarees@gmail.com)
-- 🚀  I'm currently working on [Caritas Campo Limpo](https://caritascl.org.br)
-- 🧠  I'm improving my habillities with AWS, JavaScript, Jest and Angular 14
-- 🤝  I like to experience new learnings and collaborate with knowledge sharing
-- ⚡  I love sports and my favorite is Mountain Bike.
 
 ## STATUS ANALYTICS | GITHUB
 
