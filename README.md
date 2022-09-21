@@ -1,7 +1,6 @@
-<h1 align="center">Daniel Rodrigues</h1>
-<h3 align="center">Software Developer | Front-end</h3>
+
 <p align="center">
-  <img src="https://github.com/iuryrosal/iuryrosal/blob/main/images/BannerGitHub.png" alt="Banner's Iury"/>
+  <img src="https://github.com/danielrodrigues-dv/danielrodrigues-dv/blob/main/images/Banner.png" alt="Banner danielrodrigues-dv"/>
 </p>
 
 My Higher Academic | Background in Systems Analysis and Development.
