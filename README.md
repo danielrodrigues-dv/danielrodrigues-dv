@@ -47,7 +47,7 @@
 
 ## SEE MORE AT
 See all my skills in the following link: 
-<a href="www.google.com.br">Portfolio</a>
+<a href="www.google.com.br">Link</a>
 
 
 ## STATUS ANALYTICS | GITHUB
