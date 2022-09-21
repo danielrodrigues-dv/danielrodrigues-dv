@@ -46,7 +46,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## SEE MORE AT
-If you want to see all my skills 
+See all my skills in the following link: 
 <a href="www.google.com.br">Portfolio</a>
 
 
