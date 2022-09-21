@@ -8,7 +8,7 @@
 - 🌱  My Higher Academic | Background in Systems Analysis and Development.
 - ✉️  You can contact me at [daniel.rodrigues.soarees@gmail.com](mailto:daniel.rodrigues.soarees@gmail.com)
 - 🚀  I'm currently working on [Caritas Campo Limpo](https://caritascl.org.br)
-- 🧠  I'm improving my habillities with AWS, JavaScript, Jest and Angular 14
+- 🧠  I'm improving my habillities with AWS, JavaScript, NodeJS, Jest and Angular 14
 - 🤝  I like to experience new learnings and collaborate with knowledge sharing
 - ⚡  I love sports and my favorite is Mountain Bike.
 
