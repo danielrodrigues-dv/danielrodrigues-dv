@@ -49,11 +49,11 @@
 
 </p>
 
-
-
 </details>
 
-
+<details><summary>RECENT PROJECTS</summary>
+<li><a href="https://github.com/danielrodrigues-dv/moments-angular" alt="_blank">Moment-Angular</a></li>
+</details>
 
 
 
