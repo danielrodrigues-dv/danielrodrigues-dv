@@ -12,6 +12,9 @@
 - 🤝  I like to experience new learnings and collaborate with knowledge sharing
 - ⚡  I love sports and my favorite is Mountain Bike.
 
+<details><summary>MY SKILLS</summary>
+<p>
+
 ## SKILLS | FRONT-END
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,10 +43,20 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Canvas](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-
 ## SKILLS | OPERATIONAL SYSTEM
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</p>
+
+
+
+</details>
+
+
+
+
+
 
 ## SEE MORE AT
 See all my skills in the following link: 
