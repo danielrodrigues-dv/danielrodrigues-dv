@@ -52,7 +52,7 @@
 </details>
 
 <details><summary>RECENT PROJECTS</summary>
-<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/moments-angular" target="_blank">Moment-Angular</a></li></ul></p>
+<p><ul><li style="marign-top: 10px"><a href="https://github.com/danielrodrigues-dv/tech-parking" target="_blank">Tech parking</a></li></ul></p>
 </details>
 
 
